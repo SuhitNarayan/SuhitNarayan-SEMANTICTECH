@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:hotel="http://www.hotel.com/hotelsinItaly#">
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/hotel empire">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Milan</hotel:city>
+  <hotel:starrating>5</hotel:starrating>
+  <hotel:landscape>centre of city</hotel:landscape>
+  <hotel:type>airport hotel</hotel:type>	
+  <hotel:price>100</hotel:price>
+  <hotel:size>50 room</hotel:size>
+  <hotel:nearto>central station</hotel:nearto>			
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/california hotel">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Milan</hotel:city>
+  <hotel:starrating>3</hotel:starrating>
+  <hotel:landscape>interrior of city</hotel:landscape>
+  <hotel:type>student hostel</hotel:type>	
+  <hotel:price>100</hotel:price>
+  <hotel:size>100 room</hotel:size>
+  <hotel:nearto>central station</hotel:nearto>			
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/flower hotel">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Milan</hotel:city>
+  <hotel:starrating>2</hotel:starrating>
+  <hotel:landscape>centre of city</hotel:landscape>
+  <hotel:type>airport hotel</hotel:type>	
+  <hotel:price>20</hotel:price>
+  <hotel:size>10 room</hotel:size>
+  <hotel:nearto>central station</hotel:nearto>			
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/Finkgrub hotel">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Bolzano</hotel:city>
+  <hotel:starrating>5</hotel:starrating>
+  <hotel:landscape>centre of city</hotel:landscape>
+  <hotel:type>airport hotel</hotel:type>	
+  <hotel:price>110</hotel:price>
+  <hotel:size>30 room</hotel:size>
+  <hotel:nearto>central station</hotel:nearto>			
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/Post hotel">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Bolzano</hotel:city>
+  <hotel:starrating>5</hotel:starrating>
+  <hotel:landscape>centre of city</hotel:landscape>
+  <hotel:type>tourist hotel</hotel:type>	
+  <hotel:price>100</hotel:price>
+  <hotel:size>20 room</hotel:size>
+  <hotel:nearto>central station</hotel:nearto>			
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/Latemar hotel">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Bolzano</hotel:city>
+  <hotel:starrating>5</hotel:starrating>
+  <hotel:landscape>centre of city</hotel:landscape>
+  <hotel:type>tourist hotel</hotel:type>	
+  <hotel:price>110</hotel:price>
+  <hotel:size>20 room</hotel:size>
+  <hotel:nearto>central station</hotel:nearto>			
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/Star hotel">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Bolzano</hotel:city>
+  <hotel:starrating>3</hotel:starrating>
+  <hotel:landscape>top of city</hotel:landscape>
+  <hotel:type>dormitory</hotel:type>	
+  <hotel:price>10</hotel:price>
+  <hotel:size>30 room</hotel:size>
+  <hotel:nearto>airport</hotel:nearto>			
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/Nightmare hotel">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Firenze</hotel:city>
+  <hotel:starrating>5</hotel:starrating>
+  <hotel:landscape>centre of city</hotel:landscape>
+  <hotel:type>Tourist hotel</hotel:type>	
+  <hotel:price>110</hotel:price>
+  <hotel:size>50 room</hotel:size>
+  <hotel:nearto>airport</hotel:nearto>			
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/Lasvegas hotel">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Firenze</hotel:city>
+  <hotel:starrating>5</hotel:starrating>
+  <hotel:landscape>centre of city</hotel:landscape>
+  <hotel:type>Tourist hotel</hotel:type>	
+  <hotel:price>60</hotel:price>
+  <hotel:size>10 room</hotel:size>
+  <hotel:nearto>airport</hotel:nearto>			
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/Moonlight hotel">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Roma</hotel:city>
+  <hotel:starrating>5</hotel:starrating>
+  <hotel:landscape>centre of city</hotel:landscape>
+  <hotel:type>Tourist hotel</hotel:type>	
+  <hotel:price>100</hotel:price>
+  <hotel:size>25 room</hotel:size>
+  <hotel:nearto>airport</hotel:nearto>			
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/Diamond hotel">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Roma</hotel:city>
+  <hotel:starrating>3</hotel:starrating>
+  <hotel:landscape>centre of city</hotel:landscape>
+  <hotel:type>Tourist hotel</hotel:type>	
+  <hotel:price>22</hotel:price>
+  <hotel:size>20 room</hotel:size>
+  <hotel:nearto>railway station</hotel:nearto>			
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/Pinter hotel">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Roma</hotel:city>
+  <hotel:starrating>2</hotel:starrating>
+  <hotel:landscape>centre of city</hotel:landscape>
+  <hotel:type>Tourist hotel</hotel:type>	
+  <hotel:price>22</hotel:price>
+  <hotel:size>20 room</hotel:size>
+  <hotel:nearto>railway station</hotel:nearto>			
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/Lagro hotel">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Genova</hotel:city>
+  <hotel:starrating>5</hotel:starrating>
+  <hotel:landscape>centre of city</hotel:landscape>
+  <hotel:type>Tourist hotel</hotel:type>	
+  <hotel:price>90</hotel:price>
+  <hotel:size>30 room</hotel:size>
+  <hotel:nearto>airport</hotel:nearto>			
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.hotel.com/Hotel/Museum hotel">
+  <hotel:country>Italy</hotel:country>
+  <hotel:city>Genova</hotel:city>
+  <hotel:starrating>5</hotel:starrating>
+  <hotel:landscape>centre of city</hotel:landscape>
+  <hotel:type>Tourist hotel</hotel:type>	
+  <hotel:price>100</hotel:price>
+  <hotel:size>10 room</hotel:size>
+  <hotel:nearto>airport</hotel:nearto>			
+</rdf:Description>
+</rdf:RDF>         

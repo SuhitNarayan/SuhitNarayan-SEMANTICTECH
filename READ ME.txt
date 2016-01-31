@@ -1,0 +1,22 @@
+INSTALL SESAME OPEN WORKBENCH CLIENT ON YOUR MACHINE FOR RUNNING SPARQL QUERIES
+INSTALL TOMCAT AND APACHE SERVER ON YOUR MACHINE
+RUN FOLLOWING FILES FOR HOTEL MANAGEMENT WEB PORTAL:
+1. index.php
+2. process.php
+3. serial.php
+4. hotel.rdf
+
+1. index.php is inside project folder
+2. process.php is inside project folder
+3. serial.php is inside easyrdf folder
+4. hotel.rdf is inside project folder
+
+---------------------------------------------------------------------------------------------------------------------------
+
+For sesame open workbench repository:
+ 
+ID: HotelsinItaly
+description: DFforHotelsinItaly 
+Location: http://localhost:8080/openrdf-sesame/repositories/HotelsinItaly
+
+Choose Add link from menu to upload hotel.rdf file in sesame workbench repository.
